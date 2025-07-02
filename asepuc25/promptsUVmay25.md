@@ -7,7 +7,7 @@
 >"What is ‘Student evaluation of teaching', its definition, synonyms, and key seminal works and reviews on the topic"
 
 # Prompt 3. Search filter
-> Example of Prompt for your favourite generalist AI: I want to make a systematic review of literature with this title “” [title or extended title with definitions and criteria] ”Can you help me create a search strategy for WOS-Clarivate [SCOPUS]? using this additional information [add definition]
+>  I want to make a systematic review of literature with this title “” [title or extended title with definitions and criteria] ”Can you help me create a search strategy for WOS-Clarivate [SCOPUS]? using this additional information [add definition]
 
 # Prompt 5.0. Screening
 > 
