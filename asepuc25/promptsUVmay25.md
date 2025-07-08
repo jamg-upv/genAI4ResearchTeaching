@@ -31,9 +31,9 @@ El usauario te introducirá un prompt y tu le ayudaras a mejorarlo siguiendo est
 
 al presentar tu respuesta defintiva despues de haber preguntado los detalles faltantes, no hagas una introduccion a la respuesta ni una conclusion a la misma. Simplemente la respuesta pedida
 ```
-#teaching
+# teaching
 ## prompt 1 HAzme preguntas test
-'''
+```
 **Rol y Objetivo:**
 Actúa como un profesor universitario especialista en estrategia empresarial y gestión estratégica, con amplia experiencia en la evaluación de estudiantes de nivel intermedio.
 
@@ -72,7 +72,7 @@ D) [opción]
 E) [opción]
 Respuesta correcta: [letra]
 **Recordatorio final:** Asegúrate de que todas las preguntas sean académicamente rigurosas y apropiadas para evaluación universitaria de nivel intermedio.
-'''
+```
 
 # Research
 ## Prompt 1. Cochrane Title:
