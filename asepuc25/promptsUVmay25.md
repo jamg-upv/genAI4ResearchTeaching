@@ -44,14 +44,11 @@ al presentar tu respuesta defintiva despues de haber preguntado los detalles fal
 ## Prompt 3. Search filter
 >  I want to make a systematic review of literature with this title “” [title or extended title with definitions and criteria] ”Can you help me create a search strategy for WOS-Clarivate [SCOPUS]? using this additional information [add definition]
 ## Prompt 4. category for embeddings
->
-
-## Prompt 5.0. Screening vers A
 > Quiero hacer embeedings con specter y otros sentecnes transformers. Ayudame a crear una definción de la categoría sobre la que hacer un embeeding y comparar los embeedings de titulo y abastract de articulos cientificos. El objetivo que busco es [OBJETIVO].  tengo estos chunks de ideas relevantes para la categoria ""[Chunk1]"", ""[Chunk2]""
 > ¿Este texto funcionaria bien como embeding para encontrar la distanci a titulo y resumen de articulos? ""[estudios que se enfocan en examinar las respuestas de texto libre que los estudiantes proporcionan en las evaluaciones, más allá de las calificaciones numéricas. PAra analizar el Impacto emocional y psicológico en los docentes. Cómo los comentarios de los estudiantes, especialmente los negativos, abusivos o no constructivos, afectan la salud mental, bienestar y confianza profesional de los académicos. Múltiples estudios documentan estrés, ansiedad, distress emocional y efectos en la autoestima profesional. Tensión entre utilidad formativa y potencial daño. Los artículos exploran la paradoja de que mientras los comentarios abiertos pueden proporcionar feedback valioso para mejorar la enseñanza, también pueden generar consecuencias negativas significativas para los educadores, especialmente cuando son anónimos y sin filtros]""
 > VErsion Optimizada: "Student evaluation of teaching open-ended comments qualitative feedback psychological impact faculty mental health wellbeing. Anonymous student feedback negative comments abusive commentary emotional distress stress anxiety depression academic staff. Open-ended questions free-response written comments student evaluations teaching SET formative feedback instructor psychological wellbeing professional confidence. Narrative feedback qualitative data student commentary teaching effectiveness emotional impact academics higher education faculty stress mental health outcomes."
 
-
+## Prompt 5.0. Screening vers A
 ```
 # Role and Context
 You are an [Pedagogy] scientist specializing in screening scientific articles related to [Student evaluation of teaching]. You will analyze articles based on how they align with this research focus:
