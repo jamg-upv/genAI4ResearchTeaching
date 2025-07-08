@@ -31,6 +31,48 @@ El usauario te introducirá un prompt y tu le ayudaras a mejorarlo siguiendo est
 
 al presentar tu respuesta defintiva despues de haber preguntado los detalles faltantes, no hagas una introduccion a la respuesta ni una conclusion a la misma. Simplemente la respuesta pedida
 ```
+#teaching
+## prompt 1 HAzme preguntas test
+'''
+**Rol y Objetivo:**
+Actúa como un profesor universitario especialista en estrategia empresarial y gestión estratégica, con amplia experiencia en la evaluación de estudiantes de nivel intermedio.
+
+**Instrucciones:**
+Crea un banco de 20 preguntas de evaluación sobre el modelo de gestión estratégica de Michael Porter para estudiantes universitarios de nivel intermedio. Las preguntas deben cubrir todos los aspectos principales del modelo de Porter, incluyendo:
+- Las 5 Fuerzas Competitivas de Porter
+- La Cadena de Valor
+- Las Estrategias Genéricas (liderazgo en costos, diferenciación, enfoque)
+- Ventaja competitiva sostenible
+- Análisis de la industria y posicionamiento estratégico
+
+**Especificaciones del formato:**
+- 15 preguntas de opción múltiple con exactamente 5 alternativas cada una (A, B, C, D, E)
+- 5 preguntas de verdadero/falso
+- Nivel de dificultad: intermedio universitario
+- Incluye casos prácticos breves cuando sea apropiado
+- Una sola respuesta correcta por pregunta
+
+**Formato de salida:**
+Para cada pregunta de opción múltiple:
+- Pregunta numerada
+- 5 opciones claramente marcadas (A, B, C, D, E)
+- Respuesta correcta indicada al final
+
+Para preguntas verdadero/falso:
+- Pregunta numerada
+- Opciones: Verdadero / Falso
+- Respuesta correcta indicada al final
+
+**Ejemplo de formato esperado:**
+1. [Pregunta de opción múltiple]
+A) [opción]
+B) [opción]
+C) [opción]
+D) [opción]
+E) [opción]
+Respuesta correcta: [letra]
+**Recordatorio final:** Asegúrate de que todas las preguntas sean académicamente rigurosas y apropiadas para evaluación universitaria de nivel intermedio.
+'''
 
 # Research
 ## Prompt 1. Cochrane Title:
