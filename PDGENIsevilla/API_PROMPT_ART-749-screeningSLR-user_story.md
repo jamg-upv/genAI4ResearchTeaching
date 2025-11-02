@@ -1,6 +1,7 @@
 # File:API_PROMPT_ART-749-screeningSLR.ipynb
 
 ## Historia de Usuario - Script de Procesamiento Masivo con Múltiples Modelos de IA
+Marin-Garcia, J.A.; Martinez-Tomas, J.; Juarez-Tarraga, A. & Santandreu-Mascarell, C. (2024). Protocol paper: From Chaos to Order. Augmenting Manual Article Screening with Sentence Transformers in Management Systematic Reviews. WPOM-Working Papers on Operations Management, 15, 172-208. doi: https://doi.org/10.4995/wpom.22282
 
 ### Descripción
 Como investigador/analista, necesito procesar automáticamente un conjunto de datos a través de múltiples modelos de IA de lenguaje (LLMs) para comparar sus respuestas y analizar sus resultados de forma sistemática.
